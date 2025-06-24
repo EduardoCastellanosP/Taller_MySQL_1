@@ -25,7 +25,8 @@ El proyecto contiene los siguientes archivos y carpetas:
 
 ## 🔗 Enlaces de Interés
 
-- [Pdf](https://github.com/EduardoCastellanosP/Taller_MySQL_1/blob/main/Taller%20Mysql%20EECP.md)
+- [Typora](https://github.com/EduardoCastellanosP/Taller_MySQL_1/blob/main/Taller%20Mysql%20EECP.md)
+- [PDF](https://github.com/EduardoCastellanosP/Taller_MySQL_1/blob/main/Taller%20Mysql%20EECP.pdf)
 
 ## 📌 Temas Abordados
 
